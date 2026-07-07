@@ -133,23 +133,24 @@ az webapp deployment source config-zip --resource-group MyResourceGroup --name R
 6. Click **Create Web Service**
 
 
+
 ## 📸 Screenshots
 
 ### Home Page
 <img width="1918" height="967" alt="Screenshot 2026-07-07 173312" src="https://github.com/user-attachments/assets/64fbec65-31e5-4c8b-97a2-8f0dad85cce7" />
-
+*Welcome page with personal introduction and key skills*
 
 ### About Page
 <img width="1918" height="868" alt="Screenshot 2026-07-07 173335" src="https://github.com/user-attachments/assets/7c1aa482-36c8-4c71-b997-75336f0ebd5a" />
-
+*Personal biography and highlights*
 
 ### Work Experience Page
 <img width="1918" height="965" alt="Screenshot 2026-07-07 173345" src="https://github.com/user-attachments/assets/a8181396-eb8c-477f-a62c-42bfd6adc55f" />
-
+*Career history and work experiences*
 
 ### Contact Page
 <img width="1918" height="918" alt="Screenshot 2026-07-07 173356" src="https://github.com/user-attachments/assets/88e2b458-22b9-4062-9a66-5273d0358d54" />
-
+*Contact information and social links*
 
 ## 👨‍💻 Author
 
