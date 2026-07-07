@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LayoutDemo</title>
+
+    <link rel="stylesheet" href="~/styles/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="layout-wrapper">
+        <!-- 左侧导航栏 -->
+        <nav class="sidebar">
+            <h1 class="site-title">My Resume</h1>
+            <ul class="navbar">
+                <li><a class="nav-link @(((string?)ViewData["Title"]) == "Home" ? "active" : "")" href="/">Home Page</a></li>
+                <li><a class="nav-link @(((string?)ViewData["Title"]) == "About" ? "active" : "")" href="/about">About Me</a></li>
+                <li><a class="nav-link @(((string?)ViewData["Title"]) == "WorkExperience" ? "active" : "")" href="/workexperience">Work Experience</a></li>
+                <li><a class="nav-link @(((string?)ViewData["Title"]) == "Contact" ? "active" : "")" href="/contact">My Contact</a></li>
+            </ul>
+        </nav>
+
+        <!-- 主体内容 -->
+        <main class="main-content">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="site-footer">
+        <p>&copy; 2025 - LayoutDemo. All rights reserved.</p>
+    </footer>
+</body>
+</html>

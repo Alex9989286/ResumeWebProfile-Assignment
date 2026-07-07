@@ -1,0 +1,123 @@
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\appsettings.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.runtime.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.endpoints.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.exe
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.deps.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.runtimeconfig.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.dll
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.pdb
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfoInputs.cache
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfo.cs
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.csproj.CoreCompileInputs.cache
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cache
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cs
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\scopedcss\bundle\LayoutDemo.styles.css
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.dll
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\refint\LayoutDemo.dll
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.pdb
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.genruntimeconfig.cache
+C:\Users\kathe\Documents\SWE310\W5\LayoutDemo\obj\Debug\net9.0\ref\LayoutDemo.dll
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\appsettings.Development.json
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\appsettings.json
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.runtime.json
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.endpoints.json
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.exe
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.deps.json
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.runtimeconfig.json
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.dll
+D:\Net Project\W5\LayoutDemo\bin\Debug\net9.0\LayoutDemo.pdb
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfoInputs.cache
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfo.cs
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.csproj.CoreCompileInputs.cache
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cache
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cs
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\scopedcss\bundle\LayoutDemo.styles.css
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.development.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.dll
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\refint\LayoutDemo.dll
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.pdb
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\LayoutDemo.genruntimeconfig.cache
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\ref\LayoutDemo.dll
+D:\Net Project\W5\LayoutDemo\obj\Debug\net9.0\compressed\8fczgwadlc-iw7nyxsdra.gz
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\appsettings.Development.json
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\appsettings.json
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.endpoints.json
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.runtime.json
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.exe
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.deps.json
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.runtimeconfig.json
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.dll
+D:\Net Project\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.pdb
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfoInputs.cache
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfo.cs
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.csproj.CoreCompileInputs.cache
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cache
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cs
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\scopedcss\bundle\LayoutDemo.styles.css
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.development.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.dll
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\refint\LayoutDemo.dll
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.pdb
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.genruntimeconfig.cache
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\ref\LayoutDemo.dll
+D:\Net Project\Assignment1\LayoutDemo\obj\Debug\net9.0\compressed\8fczgwadlc-620bgb9juv.gz
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\appsettings.Development.json
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\appsettings.json
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.runtime.json
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.staticwebassets.endpoints.json
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.exe
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.deps.json
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.runtimeconfig.json
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.dll
+E:\2509 PE2\Assignment1\LayoutDemo\bin\Debug\net9.0\LayoutDemo.pdb
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfoInputs.cache
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.AssemblyInfo.cs
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.csproj.CoreCompileInputs.cache
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cache
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.RazorAssemblyInfo.cs
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\scopedcss\bundle\LayoutDemo.styles.css
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\compressed\8fczgwadlc-620bgb9juv.gz
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.development.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.dll
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\refint\LayoutDemo.dll
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.pdb
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\LayoutDemo.genruntimeconfig.cache
+E:\2509 PE2\Assignment1\LayoutDemo\obj\Debug\net9.0\ref\LayoutDemo.dll
